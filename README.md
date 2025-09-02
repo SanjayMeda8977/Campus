@@ -31,3 +31,5 @@ HTML Code (face recognition UI)*
     }
 
     const video = document.getElementById('video');
+
+icon in html code
